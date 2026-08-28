@@ -128,3 +128,9 @@ contains these resource types.
   TR-0071 at all.
 
 Learn the interface from this lab; do not quote it as a standard.
+
+---
+
+## Licence
+
+BSD 3-Clause. See [LICENSE](LICENSE).
