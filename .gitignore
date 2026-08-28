@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+state.json
+.cse.json
+model.joblib
+model.b64
+training-data.csv
+.DS_Store

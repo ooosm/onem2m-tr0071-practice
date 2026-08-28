@@ -1,0 +1,3 @@
+# Everything else in this lab uses the Python standard library only.
+scikit-learn>=1.3
+joblib>=1.3
